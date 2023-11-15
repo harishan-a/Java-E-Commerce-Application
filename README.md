@@ -11,10 +11,7 @@ This repository contains the documentation and source code for the E-Commerce Ap
 1. **report.pdf**
    - A comprehensive report discussing key OOP concepts such as interfaces, abstract classes, and the importance of programming to an interface. It also includes a detailed change log for the project, outlining significant updates made to various components of the e-commerce application.
 
-2. **storeUML_M5.pdf**
-   - A UML diagram representing the design and structure of the e-commerce application. This diagram is crucial for understanding the relationships and interactions between different components of the application.
-
-3. **myStore.zip**
+2. **myStore.zip**
    - The source code and additional resources for the e-commerce application, including the following Java files:
      - `StoreView.java`: Manages the user interface for the application.
      - `StoreManager.java`: Handles business logic and management functionalities.
